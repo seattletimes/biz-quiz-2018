@@ -1,0 +1,22 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "projects-staging.seattletimes.com",
+      "path": "shot-quarter"
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": "2018/quizzes/biz-quiz-2018"
+    }
+  },
+  "title": "Biz Quiz 2018: What's your business IQ?",
+  "description": "How carefully have you paid attention? Take the 2018 Biz Quiz and find out.",
+  "url": "https://projects.seattletimes.com/2018/quizzes/biz-quiz-2018/",
+  "slug": "",
+  "tags": [ "quiz" ],
+  "image": "assets/biz-quiz-2018.jpg",
+  "sheets": ["18ySXBS6PRQp181MH8Z1YDOShAleaBV5QRlQ77Chiq8A"],
+  "standout": false,
+  "production": true,
+  "embedded": false
+}
